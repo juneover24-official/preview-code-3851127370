@@ -1,0 +1,415 @@
+{
+  "qq_number": "3851127370",
+  "group_number": "904881611",
+  "updated_at": "2026-04-23T15:52:35.301922",
+  "skins": [
+    {
+      "name": "yyの素颜",
+      "file": "yyの素颜-灰.bdi",
+      "thumb": "yyの素颜-灰.bdi_py_26_light_thumb.png",
+      "full": "yyの素颜-灰.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの减",
+      "file": "yyの减-闷.bdi",
+      "thumb": "yyの减-闷.bdi_py_26_light_thumb.png",
+      "full": "yyの减-闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの像素小猫世界",
+      "file": "yyの像素小猫世界3.bdi",
+      "thumb": "yyの像素小猫世界3.bdi_py_26_light_thumb.png",
+      "full": "yyの像素小猫世界3.bdi_py_26_light.png"
+    },
+    {
+      "name": "「yyの小幸运脆」",
+      "file": "yyの小幸运脆.bdi",
+      "thumb": "yyの小幸运脆.bdi_py_26_light_thumb.png",
+      "full": "yyの小幸运脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの萌物",
+      "file": "yyの萌物.bdi",
+      "thumb": "yyの萌物.bdi_py_26_light_thumb.png",
+      "full": "yyの萌物.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの降温",
+      "file": "yyの降温-脆.bdi",
+      "thumb": "yyの降温-脆.bdi_py_26_light_thumb.png",
+      "full": "yyの降温-脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの失效ID",
+      "file": "yyの失效ID-1.bdi",
+      "thumb": "yyの失效ID-1.bdi_py_26_light_thumb.png",
+      "full": "yyの失效ID-1.bdi_py_26_light.png"
+    },
+    {
+      "name": "「yyの冬纪」",
+      "file": "yyの冬纪-半闷.bdi",
+      "thumb": "yyの冬纪-半闷.bdi_py_26_light_thumb.png",
+      "full": "yyの冬纪-半闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの像素小猫世界",
+      "file": "yyの像素小猫世界2.bdi",
+      "thumb": "yyの像素小猫世界2.bdi_py_26_light_thumb.png",
+      "full": "yyの像素小猫世界2.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの素颜",
+      "file": "yyの素颜-原.bdi",
+      "thumb": "yyの素颜-原.bdi_py_26_light_thumb.png",
+      "full": "yyの素颜-原.bdi_py_26_light.png"
+    },
+    {
+      "name": "「yyの仿iOS」",
+      "file": "yyの仿iOS.bdi",
+      "thumb": "yyの仿iOS.bdi_py_26_light_thumb.png",
+      "full": "yyの仿iOS.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの像素小猫世界",
+      "file": "yyの像素小猫世界1.bdi",
+      "thumb": "yyの像素小猫世界1.bdi_py_26_light_thumb.png",
+      "full": "yyの像素小猫世界1.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの灰白刊物",
+      "file": "yyの灰白刊物.bdi",
+      "thumb": "yyの灰白刊物.bdi_py_26_light_thumb.png",
+      "full": "yyの灰白刊物.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの氧水",
+      "file": "yyの氧水-脆.bdi",
+      "thumb": "yyの氧水-脆.bdi_py_26_light_thumb.png",
+      "full": "yyの氧水-脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの梨花十字架",
+      "file": "yyの梨花十字架-1.bdi",
+      "thumb": "yyの梨花十字架-1.bdi_py_26_light_thumb.png",
+      "full": "yyの梨花十字架-1.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの方块",
+      "file": "yyの方块.bdi",
+      "thumb": "yyの方块.bdi_py_26_light_thumb.png",
+      "full": "yyの方块.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの灰白刊物-2",
+      "file": "yyの灰白刊物-2.bdi",
+      "thumb": "yyの灰白刊物-2.bdi_py_26_light_thumb.png",
+      "full": "yyの灰白刊物-2.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの失效ID",
+      "file": "yyの失效ID-2.bdi",
+      "thumb": "yyの失效ID-2.bdi_py_26_light_thumb.png",
+      "full": "yyの失效ID-2.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの降温",
+      "file": "yyの降温-闷.bdi",
+      "thumb": "yyの降温-闷.bdi_py_26_light_thumb.png",
+      "full": "yyの降温-闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "「yyの灰烬记忆」",
+      "file": "yyの灰烬记忆脆.bdi",
+      "thumb": "yyの灰烬记忆脆.bdi_py_26_light_thumb.png",
+      "full": "yyの灰烬记忆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyのzZ～",
+      "file": "yyのzZ.bdi",
+      "thumb": "yyのzZ.bdi_py_26_light_thumb.png",
+      "full": "yyのzZ.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの不是誰的影子",
+      "file": "yyの不是誰的影子-2.bdi",
+      "thumb": "yyの不是誰的影子-2.bdi_py_26_light_thumb.png",
+      "full": "yyの不是誰的影子-2.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの小小表情",
+      "file": "yyの小小表情.bdi",
+      "thumb": "yyの小小表情.bdi_py_26_light_thumb.png",
+      "full": "yyの小小表情.bdi_py_26_light.png"
+    },
+    {
+      "name": "「yyの冬纪」",
+      "file": "yyの冬纪-脆.bdi",
+      "thumb": "yyの冬纪-脆.bdi_py_26_light_thumb.png",
+      "full": "yyの冬纪-脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの减",
+      "file": "yyの减-脆.bdi",
+      "thumb": "yyの减-脆.bdi_py_26_light_thumb.png",
+      "full": "yyの减-脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "「yyの灰烬记忆」",
+      "file": "yyの灰烬记忆闷.bdi",
+      "thumb": "yyの灰烬记忆闷.bdi_py_26_light_thumb.png",
+      "full": "yyの灰烬记忆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの悲观复调",
+      "file": "yyの悲观复调2.bdi",
+      "thumb": "yyの悲观复调2.bdi_py_26_light_thumb.png",
+      "full": "yyの悲观复调2.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの梨花十字架",
+      "file": "yyの梨花十字架-2.bdi",
+      "thumb": "yyの梨花十字架-2.bdi_py_26_light_thumb.png",
+      "full": "yyの梨花十字架-2.bdi_py_26_light.png"
+    },
+    {
+      "name": "「yyの小幸运脆」",
+      "file": "yyの小幸运闷.bdi",
+      "thumb": "yyの小幸运闷.bdi_py_26_light_thumb.png",
+      "full": "yyの小幸运闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの不是誰的影子",
+      "file": "yyの不是誰的影子.bdi",
+      "thumb": "yyの不是誰的影子.bdi_py_26_light_thumb.png",
+      "full": "yyの不是誰的影子.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの氧水",
+      "file": "yyの氧水-闷.bdi",
+      "thumb": "yyの氧水-闷.bdi_py_26_light_thumb.png",
+      "full": "yyの氧水-闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの小小表情-闷",
+      "file": "yyの小小表情-闷.bdi",
+      "thumb": "yyの小小表情-闷.bdi_py_26_light_thumb.png",
+      "full": "yyの小小表情-闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの悲观复调",
+      "file": "yyの悲观复调.bdi",
+      "thumb": "yyの悲观复调.bdi_py_26_light_thumb.png",
+      "full": "yyの悲观复调.bdi_py_26_light.png"
+    },
+    {
+      "name": "yyの方块-2",
+      "file": "yyの方块-2.bdi",
+      "thumb": "yyの方块-2.bdi_py_26_light_thumb.png",
+      "full": "yyの方块-2.bdi_py_26_light.png"
+    },
+    {
+      "name": "「yyの仿iOS」",
+      "file": "yyの仿iOS.bds",
+      "thumb": "yyの仿iOS.bds_py_26_light_thumb.png",
+      "full": "yyの仿iOS.bds_py_26_light.png"
+    },
+    {
+      "name": "「yyの灰烬记忆」",
+      "file": "yyの灰烬记忆闷.bds",
+      "thumb": "yyの灰烬记忆闷.bds_py_26_light_thumb.png",
+      "full": "yyの灰烬记忆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの小小表情",
+      "file": "yyの小小表情.bds",
+      "thumb": "yyの小小表情.bds_py_26_light_thumb.png",
+      "full": "yyの小小表情.bds_py_26_light.png"
+    },
+    {
+      "name": "「yyの灰烬记忆」",
+      "file": "yyの灰烬记忆脆.bds",
+      "thumb": "yyの灰烬记忆脆.bds_py_26_light_thumb.png",
+      "full": "yyの灰烬记忆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの失效ID",
+      "file": "yyの失效ID-1.bds",
+      "thumb": "yyの失效ID-1.bds_py_26_light_thumb.png",
+      "full": "yyの失效ID-1.bds_py_26_light.png"
+    },
+    {
+      "name": "「yyの小幸运脆」",
+      "file": "yyの小幸运脆.bds",
+      "thumb": "yyの小幸运脆.bds_py_26_light_thumb.png",
+      "full": "yyの小幸运脆.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "yyの像素小猫世界1.bds",
+      "thumb": "yyの像素小猫世界1.bds_py_26_light_thumb.png",
+      "full": "yyの像素小猫世界1.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの素颜",
+      "file": "yyの素颜-灰.bds",
+      "thumb": "yyの素颜-灰.bds_py_26_light_thumb.png",
+      "full": "yyの素颜-灰.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの悲观复调",
+      "file": "yyの悲观复调.bds",
+      "thumb": "yyの悲观复调.bds_py_26_light_thumb.png",
+      "full": "yyの悲观复调.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの小小表情-闷",
+      "file": "yyの小小表情-闷.bds",
+      "thumb": "yyの小小表情-闷.bds_py_26_light_thumb.png",
+      "full": "yyの小小表情-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "yyの像素小猫世界2.bds",
+      "thumb": "yyの像素小猫世界2.bds_py_26_light_thumb.png",
+      "full": "yyの像素小猫世界2.bds_py_26_light.png"
+    },
+    {
+      "name": "yyのzZ～",
+      "file": "yyのzZ.bds",
+      "thumb": "yyのzZ.bds_py_26_light_thumb.png",
+      "full": "yyのzZ.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの减",
+      "file": "yyの减-脆.bds",
+      "thumb": "yyの减-脆.bds_py_26_light_thumb.png",
+      "full": "yyの减-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの不是誰的影子",
+      "file": "yyの不是誰的影子-2.bds",
+      "thumb": "yyの不是誰的影子-2.bds_py_26_light_thumb.png",
+      "full": "yyの不是誰的影子-2.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの氧水",
+      "file": "yyの氧水-脆.bds",
+      "thumb": "yyの氧水-脆.bds_py_26_light_thumb.png",
+      "full": "yyの氧水-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの悲观复调",
+      "file": "yyの悲观复调2.bds",
+      "thumb": "yyの悲观复调2.bds_py_26_light_thumb.png",
+      "full": "yyの悲观复调2.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの萌物",
+      "file": "yyの萌物.bds",
+      "thumb": "yyの萌物.bds_py_26_light_thumb.png",
+      "full": "yyの萌物.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの梨花十字架",
+      "file": "yyの梨花十字架-1.bds",
+      "thumb": "yyの梨花十字架-1.bds_py_26_light_thumb.png",
+      "full": "yyの梨花十字架-1.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの失效ID",
+      "file": "yyの失效ID-2.bds",
+      "thumb": "yyの失效ID-2.bds_py_26_light_thumb.png",
+      "full": "yyの失效ID-2.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの灰白刊物-2",
+      "file": "yyの灰白刊物-2.bds",
+      "thumb": "yyの灰白刊物-2.bds_py_26_light_thumb.png",
+      "full": "yyの灰白刊物-2.bds_py_26_light.png"
+    },
+    {
+      "name": "乐妍贴纸底包1",
+      "file": "yyの像素小猫世界3.bds",
+      "thumb": "yyの像素小猫世界3.bds_py_26_light_thumb.png",
+      "full": "yyの像素小猫世界3.bds_py_26_light.png"
+    },
+    {
+      "name": "【妍】简约小符号",
+      "file": "yyの降温-闷.bds",
+      "thumb": "yyの降温-闷.bds_py_26_light_thumb.png",
+      "full": "yyの降温-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの氧水",
+      "file": "yyの氧水-闷.bds",
+      "thumb": "yyの氧水-闷.bds_py_26_light_thumb.png",
+      "full": "yyの氧水-闷.bds_py_26_light.png"
+    },
+    {
+      "name": "「yyの冬纪」",
+      "file": "yyの冬纪-半闷.bds",
+      "thumb": "yyの冬纪-半闷.bds_py_26_light_thumb.png",
+      "full": "yyの冬纪-半闷.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの方块",
+      "file": "yyの方块.bds",
+      "thumb": "yyの方块.bds_py_26_light_thumb.png",
+      "full": "yyの方块.bds_py_26_light.png"
+    },
+    {
+      "name": "「yyの小幸运脆」",
+      "file": "yyの小幸运闷.bds",
+      "thumb": "yyの小幸运闷.bds_py_26_light_thumb.png",
+      "full": "yyの小幸运闷.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの梨花十字架",
+      "file": "yyの梨花十字架-2.bds",
+      "thumb": "yyの梨花十字架-2.bds_py_26_light_thumb.png",
+      "full": "yyの梨花十字架-2.bds_py_26_light.png"
+    },
+    {
+      "name": "「yyの冬纪」",
+      "file": "yyの冬纪-脆.bds",
+      "thumb": "yyの冬纪-脆.bds_py_26_light_thumb.png",
+      "full": "yyの冬纪-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの素颜",
+      "file": "yyの素颜-原.bds",
+      "thumb": "yyの素颜-原.bds_py_26_light_thumb.png",
+      "full": "yyの素颜-原.bds_py_26_light.png"
+    },
+    {
+      "name": "【妍】简约小符号",
+      "file": "yyの降温-脆.bds",
+      "thumb": "yyの降温-脆.bds_py_26_light_thumb.png",
+      "full": "yyの降温-脆.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの方块-2",
+      "file": "yyの方块-2.bds",
+      "thumb": "yyの方块-2.bds_py_26_light_thumb.png",
+      "full": "yyの方块-2.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの灰白刊物",
+      "file": "yyの灰白刊物.bds",
+      "thumb": "yyの灰白刊物.bds_py_26_light_thumb.png",
+      "full": "yyの灰白刊物.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの不是誰的影子",
+      "file": "yyの不是誰的影子.bds",
+      "thumb": "yyの不是誰的影子.bds_py_26_light_thumb.png",
+      "full": "yyの不是誰的影子.bds_py_26_light.png"
+    },
+    {
+      "name": "yyの减",
+      "file": "yyの减-闷.bds",
+      "thumb": "yyの减-闷.bds_py_26_light_thumb.png",
+      "full": "yyの减-闷.bds_py_26_light.png"
+    }
+  ]
+}
