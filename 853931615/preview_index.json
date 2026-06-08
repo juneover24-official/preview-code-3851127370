@@ -1,7 +1,7 @@
 {
   "qq_number": "3851127370",
   "group_number": "853931615",
-  "updated_at": "2026-04-23T15:52:35.157097",
+  "updated_at": "2026-06-08T11:58:38+00:00",
   "skins": [
     {
       "name": "yyのsquare·dkg",
@@ -76,12 +76,6 @@
       "full": "yyの立体板块.bds_py_26_light.png"
     },
     {
-      "name": "乐妍贴纸底包1",
-      "file": "ins.bds",
-      "thumb": "ins.bds_py_26_light_thumb.png",
-      "full": "ins.bds_py_26_light.png"
-    },
-    {
       "name": "「yyの芝猫」",
       "file": "yyの芝猫.bds",
       "thumb": "yyの芝猫.bds_py_26_light_thumb.png",
@@ -134,6 +128,12 @@
       "file": "yyの40见面礼.bds",
       "thumb": "yyの40见面礼.bds_py_26_light_thumb.png",
       "full": "yyの40见面礼.bds_py_26_light.png"
+    },
+    {
+      "name": "Kanyon-ins",
+      "file": "ins.bds",
+      "thumb": "ins.bds_py_26_light_thumb.png",
+      "full": "ins.bds_py_26_light_thumb.png"
     }
   ]
 }
